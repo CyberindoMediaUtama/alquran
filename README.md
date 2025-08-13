@@ -142,23 +142,6 @@ Template sudah menyediakan container untuk iklan yang:
 - CSRF protection headers
 - File access restrictions via .htaccess
 
-## 🐛 Troubleshooting
-
-### Audio tidak muncul
-1. Periksa path file audio
-2. Pastikan format file sesuai (MP3)
-3. Check browser console untuk error
-
-### Database connection error
-1. Periksa setting di `config.php`
-2. Pastikan database dan tabel sudah dibuat
-3. Check permission database user
-
-### Search tidak bekerja
-1. Pastikan tabel memiliki data
-2. Check API endpoint response
-3. Periksa network tab di browser developer tools
-
 ## 📄 License
 
 MIT License - Bebas digunakan untuk project personal maupun komersial.
