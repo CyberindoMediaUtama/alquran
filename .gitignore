@@ -1,0 +1,12 @@
+public/
+index_awal.html
+/vendor/
+/node_modules/
+/storage/logs/
+/storage/cache/
+.env
+.env.php
+*.log
+*.zip
+*.mp3
+*.wav
